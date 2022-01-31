@@ -1,3 +1,5 @@
+from dicionarios.funcoes import *
+
 usuarios = {}
 
 usuarios = {
