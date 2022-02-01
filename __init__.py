@@ -1,1 +1,0 @@
-from dicionarios.funcoes import *
